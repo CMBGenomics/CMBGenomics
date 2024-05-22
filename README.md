@@ -1,0 +1,1 @@
+This is The CMB Genomics Github Page. You will find data and code of projects we're working on at our lab. Our research interests lie in genomics, microbiome science, viral discovery and cancer transcriptomics.  
